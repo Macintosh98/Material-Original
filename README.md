@@ -14,17 +14,17 @@ To install themes :
 
 ### Material-Original light
 
-![Material-Original](preview/1.png?raw=true)
-![Material-Original](preview/2.png?raw=true)
+![Material-Original](preview/8.png?raw=true)
+![Material-Original](preview/4.png?raw=true)
 
 ### Material-Original dark
 
-![Material-Original](preview/3.png?raw=true)
-![Material-Original](preview/4.png?raw=true)
+![Material-Original](preview/7.png?raw=true)
+![Material-Original](preview/5.png?raw=true)
 
 ## Donate
 
 You can support this open source project by making a voluntary payment:
 
-The MacOS-3D theme is available for free. if you're enjoying the MacOS-3D theme, feel free to buy me a cofee :) https://www.paypal.com/paypalme/abhishekzambare/
+The Material-Original theme is available for free. if you're enjoying the Material-Original, feel free to buy me a cofee :) https://www.paypal.com/paypalme/abhishekzambare/
 
