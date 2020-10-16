@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Materia
-Comment=A Material Design theme
+Name=Material-Original
+Comment=A Material-Originall Design theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Materia
-MetacityTheme=Materia
+GtkTheme=Material-Original
+MetacityTheme=Material-Original
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24
